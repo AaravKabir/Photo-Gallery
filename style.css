@@ -1,0 +1,20 @@
+body {
+    text-align: center !important;
+    background-color: deepskyblue !important;
+}
+
+h2 {
+    font: 'Times New Roman', serif !important;
+}
+span {
+    max-width: 300px !important;
+}
+img {
+    width: 500px !important;
+    height:250px !important;
+}
+
+.large {
+    width: 80% !important;
+    height: 500px !important;
+}
